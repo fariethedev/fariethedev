@@ -7,7 +7,7 @@ Full-Stack Developer specializing in:
 - REST APIs
 - Authentication systems
 
-Currently building production-ready apps deployed on Railway,Vercel aand also working with AWS.
+Currently building production-ready apps deployed on Railway, Vercel and also working with AWS.
 
 ---
 
