@@ -29,7 +29,7 @@ Currently building production-ready apps deployed on Railway, Vercel and also wo
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: (www.linkedin.com/in/
+- LinkedIn: www.linkedin.com/in/
 farai-mahaso-275a88267
-)
-- Email: (optional)
+
+- Email: faraimahaso8@gmail.com
